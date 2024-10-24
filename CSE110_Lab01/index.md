@@ -76,7 +76,6 @@ This page was built using [GitHub Pages](https://pages.github.com/).
 Here is a link to the [README.md](README.md) under add-read-me branch.
 
 ### Picture
-
 > _ME WRITING CODE_
 
-<img width="450" alt="Screenshot 2024-04-03 at 12 55 58" src="https://github.com/Auroruaaa/CSE110/CSE110_Lab01/Kitten.png">
+<img width="450" alt="Screenshot 2024-04-03 at 12 55 58" src="https://github.com/Auroruaaa/CSE110/blob/main/CSE110_Lab01/codingMe.png">
